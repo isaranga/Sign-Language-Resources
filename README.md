@@ -10,5 +10,10 @@ I hope you find these resources useful. Please contribute to the list by suggest
 
 ## General resources
 * [The interpreter's friend](http://www.theinterpretersfriend.org/) - information about sign languages, interpreting, etc.
-* [Cultura Sorda](https://cultura-sorda.org/) - articles and materials about sign languages and the Deaf culture in general (mainly in Spanish).
+* [Cultura Sorda](https://cultura-sorda.org/) - articles and materials about sign languages and the Deaf culture in general (mainly in Spanish)
 * [SIGNApuntes](https://signapuntes.foroactivo.com/) - notes about sign languages and related themes. In Spanish.
+
+## Multilingual dictionaries
+* [Spread the Sign](http://www.spreadthesign.com) – multilingual video dictionary in several sign languages (mainly European)
+* [Sématos](http://www.sematos.eu/index.html) - multilingual video dictionary in five sign languages: Catalan (LSC), Spanish (LSE), French (LSF), German (DGS) and International Sign Language (ISL)
+* [Asian SignBank](http://cslds.org/asiansignbank/) - video dictionary for several Asian sign languages

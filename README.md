@@ -36,3 +36,15 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [SignBSL](https://www.signbsl.com/) - video dictionary
 * [BSL Courpus Project](https://bslcorpusproject.org/) - a collection of video clips showing Deaf people using BSL
 * [BSL Glossaries of Curriculum Terms](http://www.ssc.education.ed.ac.uk/BSL/) - BSL glossaries of curriculum terms (astronomy, biology, mathematics, etc.)
+
+## Costa Rican Sign Language (Lengua de señas costarricense, LESCO)
+* https://lesco.cenarec.go.cr/ - dictionary, grammar and general information about LESCO (in Spanish)
+
+## French Sign Language (Langue des Signes Française, LSF)
+* [Wikisign](http://lsf.wikisign.org/wiki/Wikisign:Accueil) - wiki video dictionary (in French)
+* [LSP Plus](http://www.lsfplus.fr/) - dictionary, grammar and more
+
+## German Sign Language (Deutsche Gebärdensprache, DGS)
+* [SignDict](https://signdict.org/) - video dictionary, +5,000 signs (in German and English)
+* [IDGS](https://www.idgs.uni-hamburg.de/en.html) - Institute of German Sign Language and Communication of the Deaf, University of Hamburg
+* [DGS-Korpus](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html) - The DGS Corpus project (in German and English)

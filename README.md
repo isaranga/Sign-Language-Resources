@@ -17,3 +17,11 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [Spread the Sign](http://www.spreadthesign.com) – multilingual video dictionary in several sign languages (mainly European)
 * [Sématos](http://www.sematos.eu/index.html) - multilingual video dictionary in five sign languages: Catalan (LSC), Spanish (LSE), French (LSF), German (DGS) and International Sign Language (ISL)
 * [Asian SignBank](http://cslds.org/asiansignbank/) - video dictionary for several Asian sign languages
+
+## American Sign Language (ASL)
+* [ASLPro](http://www.aslpro.cc) – video dictionary divided into a main dictionary, religious dictionary, conversational phrases and a baby sign dictionary
+* [Signing Savvy](http://signingsavvy.com) – video dictionary
+* [ASL University (LifePrint)](http://www.lifeprint.com/index.htm) - course and resources about ASL and Deaf culture
+* http://asl.ms – fingerspelling tutorial
+* http://asl.bz/ - numbers tutorial
+* [ASL-LEX](https://asl-lex.org/) - interactive visualization of the ASL lexicon as a graph (each node represents a sign, and each edge connects two phonologically related signs)

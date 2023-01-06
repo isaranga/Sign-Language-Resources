@@ -25,3 +25,14 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * http://asl.ms – fingerspelling tutorial
 * http://asl.bz/ - numbers tutorial
 * [ASL-LEX](https://asl-lex.org/) - interactive visualization of the ASL lexicon as a graph (each node represents a sign, and each edge connects two phonologically related signs)
+
+## Argentinian Sign Language (Lengua de señas argentina, LSA)
+* [Manos que hablan](http://www.manosquehablan.com.ar/) - dictionary, animated images (in Spanish)
+
+## Australian Sign Language (Auslan)
+* [Auslan SignBank](https://auslan.org.au/) - video dictionary. The site also includes information about Auslan, the Deaf community and its history.
+
+## British Sign Language (BSL)
+* [SignBSL](https://www.signbsl.com/) - video dictionary
+* [BSL Courpus Project](https://bslcorpusproject.org/) - a collection of video clips showing Deaf people using BSL
+* [BSL Glossaries of Curriculum Terms](http://www.ssc.education.ed.ac.uk/BSL/) - BSL glossaries of curriculum terms (astronomy, biology, mathematics, etc.)

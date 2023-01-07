@@ -48,3 +48,19 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [SignDict](https://signdict.org/) - video dictionary, +5,000 signs (in German and English)
 * [IDGS](https://www.idgs.uni-hamburg.de/en.html) - Institute of German Sign Language and Communication of the Deaf, University of Hamburg
 * [DGS-Korpus](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html) - The DGS Corpus project (in German and English)
+
+## Israeli Sign Language (שפת הסימנים הישראלית, שס"י)
+* [Sign Language Research Lab](https://signlab.haifa.ac.il/) - University of Haifa
+
+## Japanese Sign Language (日本手話)
+* [Let's enjoy learning Japanese Sign Language](http://www.kyoto-be.ne.jp/ed-center/gakko/jsl/) - fingerspelling and basic vocabulary
+
+## Mexican Sign Language (Lengua de señas mexicana, LSM)
+* [Manos con voz](https://www.conapred.org.mx/documentos_cedoc/DiccioSenas_ManosVoz_ACCSS.pdf) (Downloadable PDF file) - Dictionary of Mexican Sign Language - by CONAPRED (In Spanish)
+
+## New Zealand Sign Language (NZSL)
+* [The Online Dictionary of New Zealand Sign Language](https://www.nzsl.nz/) - video dictionary (can be searched by English or Maori keywords)
+* [TeachSign](https://www.teachsign.org.nz/learners/learning-resources/) - portal of resources for NZSL learners
+
+## Spanish Sign Language (Lengua de signos española, LSE)
+* [CNLSE (Centro de Normalización Lingüística de la Lengua de Signos Española)](https://cnlse.es/en?set_language=en) - Centre for the Language Normalization of the Spanish Sign Language (In Spanish, LSE, English and International Sign)

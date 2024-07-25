@@ -47,9 +47,10 @@ I hope you find these resources useful. Please contribute to the list by suggest
 ## German Sign Language (Deutsche Gebärdensprache, DGS)
 * [SignDict](https://signdict.org/) - video dictionary, +5,000 signs (in German and English)
 * [IDGS](https://www.idgs.uni-hamburg.de/en.html) - Institute of German Sign Language and Communication of the Deaf, University of Hamburg
-* [DGS-Korpus](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/welcome.html) - The DGS Corpus project (in German and English)
+* [DGS-Korpus](https://www.sign-lang.uni-hamburg.de/dgs-korpus/index_en.html) - The DGS Corpus project (in German and English)
 
 ## Israeli Sign Language (שפת הסימנים הישראלית, שס"י)
+* [The Corpus of Israeli Sign Language](https://islcorpus.com/) - The ISL Corpus Project
 * [Sign Language Research Lab](https://signlab.haifa.ac.il/) - University of Haifa
 
 ## Japanese Sign Language (日本手話)

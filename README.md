@@ -8,6 +8,20 @@ Included on this page are links to dictionaries, courses, and other online resou
 
 I hope you find these resources useful. Please contribute to the list by suggesting any additional resources you come across. If you know of any useful links that I've missed, please let me know so I can add them to the page.
 
+## Contents
+* [General resources](#general-resources)
+* [Multilingual dictionaries](#multilingual-dictionaries)
+* [American Sign Language (ASL)](#american-sign-language-asl)
+* [Australian Sign Language (Auslan)](#australian-sign-language-auslan)
+* [British Sign Language (BSL)](#british-sign-language-bsl)
+* [Costa Rican Sign Language (Lengua de señas costarricense, LESCO)](#costa-rican-sign-language-lengua-de-señas-costarricense-lesco)
+* [French Sign Language (Langue des Signes Française, LSF)](#french-sign-language-langue-des-signes-française-lsf)
+* [German Sign Language (Deutsche Gebärdensprache, DGS)](#german-sign-language-deutsche-gebärdensprache-dgs)
+* [Israeli Sign Language (שפת הסימנים הישראלית, שס"י)](#israeli-sign-language-שפת-הסימנים-הישראלית-שסי)
+* [Mexican Sign Language (Lengua de señas mexicana, LSM)](#mexican-sign-language-lengua-de-señas-mexicana-lsm)
+* [New Zealand Sign Language (NZSL)](#new-zealand-sign-language-nzsl)
+* [Spanish Sign Language (Lengua de signos española, LSE)](#spanish-sign-language-lengua-de-signos-española-lse)
+
 ## General resources
 * [The interpreter's friend](https://theinterpretersfriend.com/) - information about sign languages, interpreting, etc.
 * [Cultura Sorda](https://cultura-sorda.org/) - articles and materials about sign languages and the Deaf culture in general (mainly in Spanish)

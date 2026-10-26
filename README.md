@@ -28,7 +28,9 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [The interpreter's friend](https://theinterpretersfriend.com/) - information about sign languages, interpreting, etc.
 * [Cultura Sorda](https://cultura-sorda.org/) - articles and materials about sign languages and the Deaf culture in general (mainly in Spanish)
 * [SIGNApuntes](https://signapuntes.foroactivo.com/) - notes about sign languages and related themes. In Spanish.
+<!-- TODO: hidden for revision, website times out
 * [The Sign Language Dataset Compendium](https://www.sign-lang.uni-hamburg.de/lr/compendium/) - University of Hamburg overview of sign language corpora and lexical resources, searchable by language
+-->
 * [Sign Language Processing](https://sign-language-processing.github.io/) - survey of computational research on sign languages (datasets, recognition, translation, notation systems)
 * [SignWriting](https://www.signwriting.org/) - writing system for sign languages, with dictionaries and literature in many sign languages
 

@@ -52,7 +52,6 @@ I hope you find these resources useful. Please contribute to the list by suggest
 
 ## Australian Sign Language (Auslan)
 * [Auslan SignBank](https://auslan.org.au/) - video dictionary. The site also includes information about Auslan, the Deaf community and its history.
-* [The Expanded Auslan Corpus](https://auslan.org.au/about/corpus/) - annotated video corpus of Deaf native signers, linked to Auslan Signbank
 
 ## British Sign Language (BSL)
 * [SignBSL](https://www.signbsl.com/) - video dictionary

@@ -45,7 +45,6 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [Signing Savvy](https://signingsavvy.com) – video dictionary
 * [Handspeak](https://www.handspeak.com/) - dictionary (including a reverse dictionary: look up a sign to find its meaning), lessons, and articles on ASL and Deaf culture
 * [ASL Signbank](https://aslsignbank.com/) - lexical database of ASL signs (University of Connecticut and Gallaudet University), built for corpus annotation; most signs are publicly browsable
-* [ASL Connect - ASL for Free](https://www.gallaudet.edu/asl-connect/asl-for-free/) - free basic vocabulary videos organized by topic, by Gallaudet University
 * [ASL University (LifePrint)](https://www.lifeprint.com/index.htm) - course and resources about ASL and Deaf culture
 * https://asl.ms – fingerspelling tutorial
 * https://asl.bz/ - numbers tutorial

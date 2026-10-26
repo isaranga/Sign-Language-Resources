@@ -15,17 +15,26 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [Australian Sign Language (Auslan)](#australian-sign-language-auslan)
 * [British Sign Language (BSL)](#british-sign-language-bsl)
 * [Costa Rican Sign Language (Lengua de señas costarricense, LESCO)](#costa-rican-sign-language-lengua-de-señas-costarricense-lesco)
+* [Dutch Sign Language (Nederlandse Gebarentaal, NGT)](#dutch-sign-language-nederlandse-gebarentaal-ngt)
 * [French Sign Language (Langue des Signes Française, LSF)](#french-sign-language-langue-des-signes-française-lsf)
 * [German Sign Language (Deutsche Gebärdensprache, DGS)](#german-sign-language-deutsche-gebärdensprache-dgs)
 * [Israeli Sign Language (שפת הסימנים הישראלית, שס"י)](#israeli-sign-language-שפת-הסימנים-הישראלית-שסי)
 * [Mexican Sign Language (Lengua de señas mexicana, LSM)](#mexican-sign-language-lengua-de-señas-mexicana-lsm)
 * [New Zealand Sign Language (NZSL)](#new-zealand-sign-language-nzsl)
 * [Spanish Sign Language (Lengua de signos española, LSE)](#spanish-sign-language-lengua-de-signos-española-lse)
+* [Swedish Sign Language (Svenskt teckenspråk, STS)](#swedish-sign-language-svenskt-teckenspråk-sts)
 
 ## General resources
 * [The interpreter's friend](https://theinterpretersfriend.com/) - information about sign languages, interpreting, etc.
 * [Cultura Sorda](https://cultura-sorda.org/) - articles and materials about sign languages and the Deaf culture in general (mainly in Spanish)
 * [SIGNApuntes](https://signapuntes.foroactivo.com/) - notes about sign languages and related themes. In Spanish.
+<!-- TODO: hidden for revision, website times out
+* [The Sign Language Dataset Compendium](https://www.sign-lang.uni-hamburg.de/lr/compendium/) - University of Hamburg overview of sign language corpora and lexical resources, searchable by language
+-->
+* [Sign Language Processing](https://sign-language-processing.github.io/) - survey of computational research on sign languages (datasets, recognition, translation, notation systems)
+<!-- TODO: hidden for revision, website times out
+* [SignWriting](https://www.signwriting.org/) - writing system for sign languages, with dictionaries and literature in many sign languages
+-->
 
 ## Multilingual dictionaries
 * [Spread the Sign](https://www.spreadthesign.com) – multilingual video dictionary in several sign languages (mainly European)
@@ -34,6 +43,8 @@ I hope you find these resources useful. Please contribute to the list by suggest
 
 ## American Sign Language (ASL)
 * [Signing Savvy](https://signingsavvy.com) – video dictionary
+* [Handspeak](https://www.handspeak.com/) - dictionary (including a reverse dictionary: look up a sign to find its meaning), lessons, and articles on ASL and Deaf culture
+* [ASL Signbank](https://aslsignbank.com/) - lexical database of ASL signs (University of Connecticut and Gallaudet University), built for corpus annotation; most signs are publicly browsable
 * [ASL University (LifePrint)](https://www.lifeprint.com/index.htm) - course and resources about ASL and Deaf culture
 * https://asl.ms – fingerspelling tutorial
 * https://asl.bz/ - numbers tutorial
@@ -44,19 +55,28 @@ I hope you find these resources useful. Please contribute to the list by suggest
 
 ## British Sign Language (BSL)
 * [SignBSL](https://www.signbsl.com/) - video dictionary
+* [BSL SignBank](https://bslsignbank.ucl.ac.uk/) - usage-based dictionary based on the BSL Corpus, with regional variants and search by handshape and location (UCL)
 * [BSL Corpus Project](https://bslcorpusproject.org/) - a collection of video clips showing Deaf people using BSL
 * [BSL Glossaries of Curriculum Terms](https://www.ssc.education.ed.ac.uk/BSL/) - BSL glossaries of curriculum terms (astronomy, biology, mathematics, etc.)
+* [LumoTV](https://lumotv.co.uk/) (formerly BSL Zone) - TV programmes made in BSL (dramas, documentaries, entertainment, etc.)
 
 ## Costa Rican Sign Language (Lengua de señas costarricense, LESCO)
 * https://lesco.cenarec.go.cr/ - dictionary, grammar and general information about LESCO (in Spanish)
 
+## Dutch Sign Language (Nederlandse Gebarentaal, NGT)
+* [Global Signbank](https://signbank.cls.ru.nl/) - lexical database of NGT signs (also hosts datasets for other sign languages), linked to the Corpus NGT
+
 ## French Sign Language (Langue des Signes Française, LSF)
 * [Wikisign](http://lsf.wikisign.org/wiki/Wikisign:Accueil) - wiki video dictionary (in French) (no longer updated)
+* [Elix](https://dico.elix-lsf.fr/) - collaborative French/LSF video dictionary with definitions signed in LSF (in French)
 
 ## German Sign Language (Deutsche Gebärdensprache, DGS)
 * [SignDict](https://signdict.org/) - video dictionary, +5,000 signs (in German and English)
 * [IDGS](https://www.idgs.uni-hamburg.de/en.html) - Institute of German Sign Language and Communication of the Deaf, University of Hamburg
 * [DGS-Korpus](https://www.idgs.uni-hamburg.de/en/forschung/forschungsprojekte/dgs-korpus.html) - The DGS Corpus project (in German and English)
+<!-- TODO: hidden for revision, website times out
+* [MEINE DGS](https://www.meine-dgs.de/) - public portal of the DGS Corpus: ~50 hours of conversations and stories in DGS with German subtitles
+-->
 
 ## Israeli Sign Language (שפת הסימנים הישראלית, שס"י)
 * [The Corpus of Israeli Sign Language](https://islcorpus.com/) - The ISL Corpus Project
@@ -71,3 +91,6 @@ I hope you find these resources useful. Please contribute to the list by suggest
 
 ## Spanish Sign Language (Lengua de signos española, LSE)
 * [CNLSE (Centro de Normalización Lingüística de la Lengua de Signos Española)](https://cnlse.es/en?set_language=en) - Centre for the Language Normalization of the Spanish Sign Language (In Spanish, LSE, English and International Sign)
+
+## Swedish Sign Language (Svenskt teckenspråk, STS)
+* [Svenskt teckenspråkslexikon](https://teckensprakslexikon.su.se/) - video dictionary by Stockholm University, searchable by word, handshape, location and topic (in Swedish)

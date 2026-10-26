@@ -44,7 +44,7 @@ I hope you find these resources useful. Please contribute to the list by suggest
 ## American Sign Language (ASL)
 * [Signing Savvy](https://signingsavvy.com) – video dictionary
 * [Handspeak](https://www.handspeak.com/) - dictionary (including a reverse dictionary: look up a sign to find its meaning), lessons, and articles on ASL and Deaf culture
-* [ASL Signbank](https://aslsignbank.haskins.yale.edu/) - lexical database of ASL signs (Haskins Lab, Yale University), built for corpus annotation; most signs are publicly browsable
+* [ASL Signbank](https://aslsignbank.com/) - lexical database of ASL signs (University of Connecticut and Gallaudet University), built for corpus annotation; most signs are publicly browsable
 * [ASL Connect - ASL for Free](https://www.gallaudet.edu/asl-connect/asl-for-free/) - free basic vocabulary videos organized by topic, by Gallaudet University
 * [ASL University (LifePrint)](https://www.lifeprint.com/index.htm) - course and resources about ASL and Deaf culture
 * https://asl.ms – fingerspelling tutorial
@@ -60,7 +60,7 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [BSL SignBank](https://bslsignbank.ucl.ac.uk/) - usage-based dictionary based on the BSL Corpus, with regional variants and search by handshape and location (UCL)
 * [BSL Corpus Project](https://bslcorpusproject.org/) - a collection of video clips showing Deaf people using BSL
 * [BSL Glossaries of Curriculum Terms](https://www.ssc.education.ed.ac.uk/BSL/) - BSL glossaries of curriculum terms (astronomy, biology, mathematics, etc.)
-* [BSL Zone](https://www.bslzone.co.uk/) - free-to-stream TV programmes made in BSL (dramas, documentaries, etc.)
+* [LumoTV](https://lumotv.co.uk/) (formerly BSL Zone) - TV programmes made in BSL (dramas, documentaries, entertainment, etc.)
 
 ## Costa Rican Sign Language (Lengua de señas costarricense, LESCO)
 * https://lesco.cenarec.go.cr/ - dictionary, grammar and general information about LESCO (in Spanish)
@@ -76,7 +76,9 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [SignDict](https://signdict.org/) - video dictionary, +5,000 signs (in German and English)
 * [IDGS](https://www.idgs.uni-hamburg.de/en.html) - Institute of German Sign Language and Communication of the Deaf, University of Hamburg
 * [DGS-Korpus](https://www.idgs.uni-hamburg.de/en/forschung/forschungsprojekte/dgs-korpus.html) - The DGS Corpus project (in German and English)
+<!-- TODO: hidden for revision, website times out
 * [MEINE DGS](https://www.meine-dgs.de/) - public portal of the DGS Corpus: ~50 hours of conversations and stories in DGS with German subtitles
+-->
 
 ## Israeli Sign Language (שפת הסימנים הישראלית, שס"י)
 * [The Corpus of Israeli Sign Language](https://islcorpus.com/) - The ISL Corpus Project

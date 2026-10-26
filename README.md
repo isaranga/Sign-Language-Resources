@@ -15,12 +15,12 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [Australian Sign Language (Auslan)](#australian-sign-language-auslan)
 * [British Sign Language (BSL)](#british-sign-language-bsl)
 * [Costa Rican Sign Language (Lengua de señas costarricense, LESCO)](#costa-rican-sign-language-lengua-de-señas-costarricense-lesco)
+* [Dutch Sign Language (Nederlandse Gebarentaal, NGT)](#dutch-sign-language-nederlandse-gebarentaal-ngt)
 * [French Sign Language (Langue des Signes Française, LSF)](#french-sign-language-langue-des-signes-française-lsf)
 * [German Sign Language (Deutsche Gebärdensprache, DGS)](#german-sign-language-deutsche-gebärdensprache-dgs)
 * [Israeli Sign Language (שפת הסימנים הישראלית, שס"י)](#israeli-sign-language-שפת-הסימנים-הישראלית-שסי)
 * [Mexican Sign Language (Lengua de señas mexicana, LSM)](#mexican-sign-language-lengua-de-señas-mexicana-lsm)
 * [New Zealand Sign Language (NZSL)](#new-zealand-sign-language-nzsl)
-* [Sign Language of the Netherlands (Nederlandse Gebarentaal, NGT)](#sign-language-of-the-netherlands-nederlandse-gebarentaal-ngt)
 * [Spanish Sign Language (Lengua de signos española, LSE)](#spanish-sign-language-lengua-de-signos-española-lse)
 * [Swedish Sign Language (Svenskt teckenspråk, STS)](#swedish-sign-language-svenskt-teckenspråk-sts)
 
@@ -61,6 +61,9 @@ I hope you find these resources useful. Please contribute to the list by suggest
 ## Costa Rican Sign Language (Lengua de señas costarricense, LESCO)
 * https://lesco.cenarec.go.cr/ - dictionary, grammar and general information about LESCO (in Spanish)
 
+## Dutch Sign Language (Nederlandse Gebarentaal, NGT)
+* [Global Signbank](https://signbank.cls.ru.nl/) - lexical database of NGT signs (also hosts datasets for other sign languages), linked to the Corpus NGT
+
 ## French Sign Language (Langue des Signes Française, LSF)
 * [Wikisign](http://lsf.wikisign.org/wiki/Wikisign:Accueil) - wiki video dictionary (in French) (no longer updated)
 * [Elix](https://dico.elix-lsf.fr/) - collaborative French/LSF video dictionary with definitions signed in LSF (in French)
@@ -81,9 +84,6 @@ I hope you find these resources useful. Please contribute to the list by suggest
 ## New Zealand Sign Language (NZSL)
 * [The Online Dictionary of New Zealand Sign Language](https://www.nzsl.nz/) - video dictionary (can be searched by English or Maori keywords)
 * [TeachSign](https://www.teachsign.org.nz/learners/learning-resources/) - portal of resources for NZSL learners
-
-## Sign Language of the Netherlands (Nederlandse Gebarentaal, NGT)
-* [Global Signbank](https://signbank.cls.ru.nl/) - lexical database of NGT signs (also hosts datasets for other sign languages), linked to the Corpus NGT
 
 ## Spanish Sign Language (Lengua de signos española, LSE)
 * [CNLSE (Centro de Normalización Lingüística de la Lengua de Signos Española)](https://cnlse.es/en?set_language=en) - Centre for the Language Normalization of the Spanish Sign Language (In Spanish, LSE, English and International Sign)

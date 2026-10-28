@@ -46,6 +46,7 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [ASL University (LifePrint)](https://www.lifeprint.com/index.htm) - course and resources about ASL and Deaf culture
 * https://asl.ms – fingerspelling tutorial
 * https://asl.bz/ - numbers tutorial
+* [Fingerspell.net](https://fingerspell.net/) - receptive fingerspelling practice (flashcards)
 * [ASL-LEX](https://asl-lex.org/) - interactive visualization of the ASL lexicon as a graph (each node represents a sign, and each edge connects two phonologically related signs)
 
 ## Australian Sign Language (Auslan)

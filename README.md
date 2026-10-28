@@ -75,6 +75,7 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [IDGS](https://www.idgs.uni-hamburg.de/en.html) - Institute of German Sign Language and Communication of the Deaf, University of Hamburg
 * [DGS-Korpus](https://www.sign-lang.uni-hamburg.de/dgs-korpus/) - The DGS Corpus project (in German and English)
 * [MEINE DGS](https://www.meine-dgs.de/) - public portal of the DGS Corpus: ~50 hours of conversations and stories in DGS with German subtitles
+* [Sign2MINT](https://sign2mint.de/) - DGS dictionary of technical signs for science, technology, engineering and mathematics (STEM/MINT) (in German)
 
 ## Israeli Sign Language (שפת הסימנים הישראלית, שס"י)
 * [The Corpus of Israeli Sign Language](https://islcorpus.com/) - The ISL Corpus Project

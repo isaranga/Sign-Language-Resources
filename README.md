@@ -64,6 +64,7 @@ I hope you find these resources useful. Please contribute to the list by suggest
 
 ## Dutch Sign Language (Nederlandse Gebarentaal, NGT)
 * [Global Signbank](https://signbank.cls.ru.nl/) - lexical database of NGT signs (also hosts datasets for other sign languages), linked to the Corpus NGT
+* [Corpus NGT](https://corpusngt.nl/) - searchable corpus of NGT conversations and narratives from signers across the Netherlands (in Dutch)
 
 ## French Sign Language (Langue des Signes Française, LSF)
 * [Wikisign](http://lsf.wikisign.org/wiki/Wikisign:Accueil) - wiki video dictionary (in French) (no longer updated)

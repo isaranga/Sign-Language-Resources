@@ -28,9 +28,7 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [The interpreter's friend](https://theinterpretersfriend.com/) - information about sign languages, interpreting, etc.
 * [Cultura Sorda](https://cultura-sorda.org/) - articles and materials about sign languages and the Deaf culture in general (mainly in Spanish)
 * [SIGNApuntes](https://signapuntes.foroactivo.com/) - notes about sign languages and related themes. In Spanish.
-<!-- TODO: hidden for revision, website times out
 * [The Sign Language Dataset Compendium](https://www.sign-lang.uni-hamburg.de/lr/compendium/) - University of Hamburg overview of sign language corpora and lexical resources, searchable by language
--->
 * [Sign Language Processing](https://sign-language-processing.github.io/) - survey of computational research on sign languages (datasets, recognition, translation, notation systems)
 <!-- TODO: hidden for revision, website times out
 * [SignWriting](https://www.signwriting.org/) - writing system for sign languages, with dictionaries and literature in many sign languages
@@ -74,9 +72,7 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [SignDict](https://signdict.org/) - video dictionary, +5,000 signs (in German and English)
 * [IDGS](https://www.idgs.uni-hamburg.de/en.html) - Institute of German Sign Language and Communication of the Deaf, University of Hamburg
 * [DGS-Korpus](https://www.idgs.uni-hamburg.de/en/forschung/forschungsprojekte/dgs-korpus.html) - The DGS Corpus project (in German and English)
-<!-- TODO: hidden for revision, website times out
 * [MEINE DGS](https://www.meine-dgs.de/) - public portal of the DGS Corpus: ~50 hours of conversations and stories in DGS with German subtitles
--->
 
 ## Israeli Sign Language (שפת הסימנים הישראלית, שס"י)
 * [The Corpus of Israeli Sign Language](https://islcorpus.com/) - The ISL Corpus Project

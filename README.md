@@ -93,3 +93,4 @@ I hope you find these resources useful. Please contribute to the list by suggest
 
 ## Swedish Sign Language (Svenskt teckenspråk, STS)
 * [Svenskt teckenspråkslexikon](https://teckensprakslexikon.su.se/) - video dictionary by Stockholm University, searchable by word, handshape, location and topic (in Swedish)
+* [STS-korpus](https://teckensprakskorpus.su.se) - searchable, annotated corpus of Swedish Sign Language (Stockholm University) (in Swedish)

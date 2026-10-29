@@ -30,6 +30,7 @@ I hope you find these resources useful. Please contribute to the list by suggest
 * [SIGNApuntes](https://signapuntes.foroactivo.com/) - notes about sign languages and related themes. In Spanish.
 * [The Sign Language Dataset Compendium](https://www.sign-lang.uni-hamburg.de/lr/compendium/) - University of Hamburg overview of sign language corpora and lexical resources, searchable by language
 * [Sign Language Processing](https://sign-language-processing.github.io/) - survey of computational research on sign languages (datasets, recognition, translation, notation systems)
+* [World Association of Sign Language Interpreters (WASLI)](https://wasli.org/) - international organisation of sign language interpreters
 <!-- TODO: hidden for revision, website times out
 * [SignWriting](https://www.signwriting.org/) - writing system for sign languages, with dictionaries and literature in many sign languages
 -->

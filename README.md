@@ -18,6 +18,7 @@ I hope you find these resources useful. If you know of any useful links that I'v
 * [Dutch Sign Language (Nederlandse Gebarentaal, NGT)](#dutch-sign-language-nederlandse-gebarentaal-ngt)
 * [French Sign Language (Langue des Signes Française, LSF)](#french-sign-language-langue-des-signes-française-lsf)
 * [German Sign Language (Deutsche Gebärdensprache, DGS)](#german-sign-language-deutsche-gebärdensprache-dgs)
+* [Hungarian Sign Language (Magyar jelnyelv)](#hungarian-sign-language-magyar-jelnyelv)
 * [Israeli Sign Language (שפת הסימנים הישראלית, שס"י)](#israeli-sign-language-שפת-הסימנים-הישראלית-שסי)
 * [Mexican Sign Language (Lengua de señas mexicana, LSM)](#mexican-sign-language-lengua-de-señas-mexicana-lsm)
 * [New Zealand Sign Language (NZSL)](#new-zealand-sign-language-nzsl)
@@ -75,6 +76,9 @@ I hope you find these resources useful. If you know of any useful links that I'v
 * [DGS-Korpus](https://www.sign-lang.uni-hamburg.de/dgs-korpus/) - The DGS Corpus project (in German and English)
 * [MEINE DGS](https://www.meine-dgs.de/) - public portal of the DGS Corpus: ~50 hours of conversations and stories in DGS with German subtitles
 * [Sign2MINT](https://sign2mint.de/) - DGS dictionary of technical signs for science, technology, engineering and mathematics (STEM/MINT) (in German)
+
+## Hungarian Sign Language (Magyar jelnyelv)
+* [Hallatlan](https://www.hallatlan.hu/) - video dictionary (3,000+ signs by topic) and weekly news in sign language, by the Hallatlan Foundation; also offers paid A1–C1 courses (in Hungarian)
 
 ## Israeli Sign Language (שפת הסימנים הישראלית, שס"י)
 * [The Corpus of Israeli Sign Language](https://islcorpus.com/) - The ISL Corpus Project

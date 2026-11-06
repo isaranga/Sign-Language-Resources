@@ -6,7 +6,7 @@ On this page, you will find a wealth of online resources to help you learn more 
 
 Included on this page are links to dictionaries, courses, and other online resources to help you learn more about sign languages. Whether you're a beginner just starting out, a native signer, or a sign language interpreter looking to expand your knowledge, you'll find something here to help you. The resources are primarily in English, but some are in other languages, such as Spanish.
 
-I hope you find these resources useful. If you know of any useful links that I've missed, please [open a new issue](https://github.com/isaranga/Sign-Language-Resources/issues/new) so I can add them to the page.
+I hope you find these resources useful. If you know of any useful links that I've missed, please [open a new issue](https://github.com/isaranga/Sign-Language-Resources/issues/new) so I can add them to the page. See the [inclusion criteria](https://github.com/isaranga/Sign-Language-Resources/blob/main/CONTRIBUTING.md) first.
 
 ## Contents
 * [General resources](#general-resources)

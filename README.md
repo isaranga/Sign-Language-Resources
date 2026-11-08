@@ -83,6 +83,7 @@ I hope you find these resources useful. If you know of any useful links that I'v
 ## Israeli Sign Language (שפת הסימנים הישראלית, שס"י)
 * [The Corpus of Israeli Sign Language](https://islcorpus.com/) - The ISL Corpus Project
 * [Sign Language Research Lab](https://signlab.haifa.ac.il/) - University of Haifa
+* [ISL Dictionary](https://isl.danfishgold.com/) - video dictionary of about 2,300 Israeli Sign Language signs, based on the former SELA online dictionary (Hebrew, partial English)
 
 ## Mexican Sign Language (Lengua de señas mexicana, LSM)
 * [Manos con voz](https://libreacceso.org/bibliografia/bibliografias-discapacidad-auditiva/manos-con-voz-diccionario-de-lengua-de-senas-mexicana/) (download page for the PDF file) - Dictionary of Mexican Sign Language - by CONAPRED (In Spanish)

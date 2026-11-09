@@ -11,8 +11,6 @@ silently drop a link from the site.
 Usage: python scripts/build_site.py [--readme README.md] [--out site]
 """
 
-from __future__ import annotations
-
 import argparse
 import datetime as dt
 import html
@@ -78,7 +76,7 @@ class Section:
         return english
 
 
-class ParseError(Exception):
+class BuildError(Exception):
     pass
 
 
@@ -110,18 +108,18 @@ def parse_readme(text: str) -> list[Section]:
         )
 
     if errors:
-        raise ParseError(
+        raise BuildError(
             "These README lines don't match '* [Name](url) - description':\n"
             + "\n".join(errors)
         )
     empty = [s.title for s in sections if not s.resources]
     if empty:
-        raise ParseError("Sections with no resources: " + ", ".join(empty))
+        raise BuildError("Sections with no resources: " + ", ".join(empty))
     return sections
 
 
 def last_updated(readme: Path) -> dt.date:
-    """Date of the last commit touching README.md; today if git isn't available."""
+    """Date of the last commit touching README.md."""
     try:
         out = subprocess.run(
             ["git", "log", "-1", "--format=%cs", "--", readme.name],
@@ -130,11 +128,13 @@ def last_updated(readme: Path) -> dt.date:
             text=True,
             check=True,
         ).stdout.strip()
-        if out:
-            return dt.date.fromisoformat(out)
-    except (OSError, subprocess.CalledProcessError, ValueError):
-        pass
-    return dt.date.today()
+    except OSError as exc:
+        raise BuildError(f"Couldn't run git to find the last-updated date: {exc}") from exc
+    except subprocess.CalledProcessError as exc:
+        raise BuildError(f"git log failed for {readme}: {exc.stderr.strip()}") from exc
+    if not out:
+        raise BuildError(f"{readme} has no commits, so there's no last-updated date.")
+    return dt.date.fromisoformat(out)
 
 
 def e(text: str) -> str:
@@ -199,7 +199,7 @@ def build(readme: Path, out_dir: Path) -> int:
     for key, value in replacements.items():
         page = page.replace(key, value)
     if leftover := re.findall(r"\{\{\w+\}\}", page):
-        raise ParseError(f"Unfilled template placeholders: {leftover}")
+        raise BuildError(f"Unfilled template placeholders: {leftover}")
 
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "index.html").write_text(page, encoding="utf-8")
@@ -213,7 +213,7 @@ def main() -> None:
     args = parser.parse_args()
     try:
         total = build(args.readme, args.out)
-    except ParseError as exc:
+    except BuildError as exc:
         sys.exit(f"Build failed.\n{exc}")
     print(f"Built {args.out / 'index.html'} with {total} resources.")
 

@@ -25,9 +25,9 @@ ROOT = Path(__file__).resolve().parent.parent
 TEMPLATE = ROOT / "templates" / "index.html"
 
 REPO_URL = "https://github.com/isaranga/Sign-Language-Resources"
-# Where the "Suggest a resource" button points. Replace with a Google Form
-# (or similar) URL so people without a GitHub account can suggest links.
-SUGGEST_URL = f"{REPO_URL}/issues/new"
+# Where the "Suggest a resource" button points: a Google Form, so people
+# without a GitHub account can suggest links.
+SUGGEST_URL = "https://forms.gle/qR2L4hmBKVZ6utrB7"
 CRITERIA_URL = f"{REPO_URL}/blob/main/CONTRIBUTING.md"
 
 SKIP_SECTIONS = {"Contents"}

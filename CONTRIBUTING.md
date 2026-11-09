@@ -18,9 +18,9 @@ Resources that stop meeting these criteria, including links that stay broken, wi
 
 ## Suggesting or reporting a resource
 
-[Open a new issue](https://github.com/isaranga/Sign-Language-Resources/issues/new) to suggest a resource, or to report one that is broken or no longer meets the criteria. 
+Fill in [this form](https://forms.gle/qR2L4hmBKVZ6utrB7) (no GitHub account needed) or [open a new issue](https://github.com/isaranga/Sign-Language-Resources/issues/new) to suggest a resource, or to report one that is broken or no longer meets the criteria.
 
-When suggesting, include:
+When suggesting through an issue, include:
 * the link
 * which sign language it covers (or "general")
 * a short description of what it offers

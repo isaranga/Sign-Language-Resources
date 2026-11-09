@@ -44,8 +44,8 @@ I hope you find these resources useful. If you know of any useful links that I'v
 * [Handspeak](https://www.handspeak.com/) - dictionary (including a reverse dictionary: look up a sign to find its meaning), lessons, and articles on ASL and Deaf culture
 * [ASL Signbank](https://aslsignbank.com/) - lexical database of ASL signs (University of Connecticut and Gallaudet University), built for corpus annotation; most signs are publicly browsable
 * [ASL University (LifePrint)](https://www.lifeprint.com/index.htm) - course and resources about ASL and Deaf culture
-* [ASL Fingerspelling](https://asl.ms) - fingerspelling tutorial
-* [ASL Numbers](https://asl.bz/) - numbers tutorial
+* [ASL Fingerspelling Practice](https://asl.ms) - fingerspelling tutorial
+* [ASL Number Practice](https://asl.bz/) - numbers tutorial
 * [Fingerspell.net](https://fingerspell.net/) - receptive fingerspelling practice (flashcards)
 * [ASL-LEX](https://asl-lex.org/) - interactive visualization of the ASL lexicon as a graph (each node represents a sign, and each edge connects two phonologically related signs)
 
@@ -60,7 +60,7 @@ I hope you find these resources useful. If you know of any useful links that I'v
 * [LumoTV](https://lumotv.co.uk/) (formerly BSL Zone) - TV programmes made in BSL (dramas, documentaries, entertainment, etc.)
 
 ## Costa Rican Sign Language (Lengua de señas costarricense, LESCO)
-* https://lesco.cenarec.go.cr/ - dictionary, grammar and general information about LESCO (in Spanish)
+* [LESCO (CENAREC)](https://lesco.cenarec.go.cr/) - dictionary, grammar and general information about LESCO (in Spanish)
 
 ## Dutch Sign Language (Nederlandse Gebarentaal, NGT)
 * [Global Signbank](https://signbank.cls.ru.nl/) - lexical database of NGT signs (also hosts datasets for other sign languages), linked to the Corpus NGT

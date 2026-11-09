@@ -35,17 +35,17 @@ I hope you find these resources useful. If you know of any useful links that I'v
 * [SignWriting](https://www.signwriting.org/) - writing system for sign languages, with dictionaries and literature in many sign languages
 
 ## Multilingual dictionaries
-* [Spread the Sign](https://www.spreadthesign.com) – multilingual video dictionary in several sign languages (mainly European)
+* [Spread the Sign](https://www.spreadthesign.com) - multilingual video dictionary in several sign languages (mainly European)
 * [Sématos](https://www.sematos.eu/) - multilingual video dictionary in five sign languages: Catalan (LSC), Spanish (LSE), French (LSF), German (DGS) and International Sign Language (ISL)
 * [Asian SignBank](http://cslds.org/asiansignbank/) - video dictionary for several Asian sign languages
 
 ## American Sign Language (ASL)
-* [Signing Savvy](https://signingsavvy.com) – video dictionary
+* [Signing Savvy](https://signingsavvy.com) - video dictionary
 * [Handspeak](https://www.handspeak.com/) - dictionary (including a reverse dictionary: look up a sign to find its meaning), lessons, and articles on ASL and Deaf culture
 * [ASL Signbank](https://aslsignbank.com/) - lexical database of ASL signs (University of Connecticut and Gallaudet University), built for corpus annotation; most signs are publicly browsable
 * [ASL University (LifePrint)](https://www.lifeprint.com/index.htm) - course and resources about ASL and Deaf culture
-* https://asl.ms – fingerspelling tutorial
-* https://asl.bz/ - numbers tutorial
+* [ASL Fingerspelling Practice](https://asl.ms) - receptive fingerspelling practice
+* [ASL Number Practice](https://asl.bz/) - receptive numbers practice
 * [Fingerspell.net](https://fingerspell.net/) - receptive fingerspelling practice (flashcards)
 * [ASL-LEX](https://asl-lex.org/) - interactive visualization of the ASL lexicon as a graph (each node represents a sign, and each edge connects two phonologically related signs)
 
@@ -60,7 +60,7 @@ I hope you find these resources useful. If you know of any useful links that I'v
 * [LumoTV](https://lumotv.co.uk/) (formerly BSL Zone) - TV programmes made in BSL (dramas, documentaries, entertainment, etc.)
 
 ## Costa Rican Sign Language (Lengua de señas costarricense, LESCO)
-* https://lesco.cenarec.go.cr/ - dictionary, grammar and general information about LESCO (in Spanish)
+* [LESCO (CENAREC)](https://lesco.cenarec.go.cr/) - dictionary, grammar and general information about LESCO (in Spanish)
 
 ## Dutch Sign Language (Nederlandse Gebarentaal, NGT)
 * [Global Signbank](https://signbank.cls.ru.nl/) - lexical database of NGT signs (also hosts datasets for other sign languages), linked to the Corpus NGT

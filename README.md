@@ -44,8 +44,8 @@ I hope you find these resources useful. If you know of any useful links that I'v
 * [Handspeak](https://www.handspeak.com/) - dictionary (including a reverse dictionary: look up a sign to find its meaning), lessons, and articles on ASL and Deaf culture
 * [ASL Signbank](https://aslsignbank.com/) - lexical database of ASL signs (University of Connecticut and Gallaudet University), built for corpus annotation; most signs are publicly browsable
 * [ASL University (LifePrint)](https://www.lifeprint.com/index.htm) - course and resources about ASL and Deaf culture
-* [ASL Fingerspelling Practice](https://asl.ms) - fingerspelling tutorial
-* [ASL Number Practice](https://asl.bz/) - numbers tutorial
+* [ASL Fingerspelling Practice](https://asl.ms) - receptive fingerspelling practice
+* [ASL Number Practice](https://asl.bz/) - receptive numbers practice
 * [Fingerspell.net](https://fingerspell.net/) - receptive fingerspelling practice (flashcards)
 * [ASL-LEX](https://asl-lex.org/) - interactive visualization of the ASL lexicon as a graph (each node represents a sign, and each edge connects two phonologically related signs)
 

@@ -67,11 +67,13 @@ class Section:
     def short_label(self) -> str:
         """Label for the filter button, e.g. 'German' for 'German Sign Language (...)'."""
         english = self.title.split("(")[0].strip()
-        if english.endswith(" Sign Language"):
-            return english.removesuffix(" Sign Language")
-        if english == "Multilingual dictionaries":
+        lowered = english.lower()
+        suffix = " sign language"
+        if lowered.endswith(suffix):
+            return english[: -len(suffix)]
+        if lowered == "multilingual dictionaries":
             return "Multilingual"
-        if english == "General resources":
+        if lowered == "general resources":
             return "General"
         return english
 

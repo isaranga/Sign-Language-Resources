@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sign Language Resources</title>
+  <meta name="description" content="Free dictionaries, courses, corpora and other online resources for sign languages around the world.">
+  <style>
+    :root {
+      --bg: #f7f7f5;
+      --surface: #ffffff;
+      --text: #1b1b1f;
+      --muted: #5c5c66;
+      --border: #dcdce2;
+      --accent: #1d4ed8;
+      --accent-text: #ffffff;
+      --focus: #f59e0b;
+      color-scheme: light dark;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #121216;
+        --surface: #1c1c22;
+        --text: #ececf1;
+        --muted: #a3a3b0;
+        --border: #34343e;
+        --accent: #7aa2ff;
+        --accent-text: #0b1020;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--text);
+      font: 17px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+    a { color: inherit; }
+    :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+    .wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+
+    header { padding: 40px 0 8px; }
+    h1 { font-size: clamp(1.8rem, 5vw, 2.6rem); line-height: 1.15; margin: 0 0 8px; }
+    .lede { color: var(--muted); margin: 0 0 24px; max-width: 46em; }
+
+    .controls {
+      position: sticky; top: 0; z-index: 1;
+      background: var(--bg);
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border);
+    }
+    .search {
+      width: 100%;
+      font: inherit;
+      padding: 12px 14px;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      background: var(--surface);
+      color: var(--text);
+    }
+    .chips {
+      display: flex; flex-wrap: wrap; gap: 8px;
+      margin-top: 12px;
+    }
+    .chip {
+      font: inherit; font-size: 0.92rem;
+      padding: 6px 14px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: var(--surface);
+      color: var(--text);
+      cursor: pointer;
+      white-space: nowrap;
+    }
+    .chip[aria-pressed="true"] {
+      background: var(--accent); border-color: var(--accent); color: var(--accent-text);
+    }
+    @media (max-width: 640px) {
+      .chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; scrollbar-width: thin; }
+    }
+
+    main { padding: 8px 0 40px; }
+    .lang { margin-top: 32px; scroll-margin-top: 140px; }
+    h2 { font-size: 1.25rem; margin: 0 0 12px; }
+    .count { font-size: 0.85rem; font-weight: normal; color: var(--muted); white-space: nowrap; }
+    .cards {
+      list-style: none; margin: 0; padding: 0;
+      display: grid; gap: 12px;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    }
+    .card a {
+      display: flex; flex-direction: column; gap: 6px;
+      height: 100%;
+      padding: 16px;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      text-decoration: none;
+    }
+    .card a:hover { border-color: var(--accent); }
+    .card-name { font-weight: 650; font-size: 1.05rem; color: var(--accent); }
+    .note { font-size: 0.85rem; color: var(--muted); }
+    .card-desc { flex: 1; }
+    .card-domain { font-size: 0.85rem; color: var(--muted); overflow-wrap: anywhere; }
+    .empty { margin-top: 32px; color: var(--muted); }
+    [hidden] { display: none !important; }
+
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 28px 0 48px;
+      color: var(--muted);
+    }
+    .suggest {
+      display: inline-block;
+      margin: 8px 0 16px;
+      padding: 10px 18px;
+      border-radius: 10px;
+      background: var(--accent); color: var(--accent-text);
+      font-weight: 600; text-decoration: none;
+    }
+    footer p { margin: 4px 0; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>Sign Language Resources</h1>
+      <p class="lede">{{total}} free online resources for {{language_count}} sign languages: dictionaries, courses, corpora, TV and more. Whether you're just starting out, a native signer, or an interpreter, you'll find something useful here.</p>
+    </header>
+  </div>
+
+  <div class="controls">
+    <div class="wrap">
+      <label for="q" class="visually-hidden" style="position:absolute;left:-9999px">Search resources</label>
+      <input id="q" class="search" type="search" placeholder="Search, e.g. “dictionary”" autocomplete="off">
+      <div class="chips" role="group" aria-label="Filter by sign language">
+        {{filters}}
+      </div>
+    </div>
+  </div>
+
+  <main class="wrap">
+{{sections}}
+    <p class="empty" id="empty" hidden>No resources match your search.</p>
+  </main>
+
+  <footer>
+    <div class="wrap">
+      <p><strong>Know a resource that's missing?</strong></p>
+      <a class="suggest" href="{{suggest_url}}">Suggest a resource</a>
+      <p>Please check the <a href="{{criteria_url}}">inclusion criteria</a> first.</p>
+      <p>Last updated <time datetime="{{updated_iso}}">{{updated}}</time> · <a href="{{repo_url}}">Maintained on GitHub</a></p>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var input = document.getElementById("q");
+      var chips = document.querySelectorAll(".chip");
+      var sections = document.querySelectorAll(".lang");
+      var empty = document.getElementById("empty");
+      var filter = "all";
+
+      function apply() {
+        var terms = input.value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+        var anyVisible = false;
+        sections.forEach(function (sec) {
+          var inFilter = filter === "all" || sec.dataset.section === filter;
+          var title = sec.querySelector("h2").textContent.toLowerCase();
+          var shown = 0;
+          sec.querySelectorAll(".card").forEach(function (card) {
+            var hay = card.dataset.search + " " + title;
+            var ok = inFilter && terms.every(function (t) { return hay.indexOf(t) !== -1; });
+            card.hidden = !ok;
+            if (ok) shown++;
+          });
+          sec.hidden = shown === 0;
+          if (shown) anyVisible = true;
+        });
+        empty.hidden = anyVisible;
+      }
+
+      chips.forEach(function (chip) {
+        chip.addEventListener("click", function () {
+          filter = chip.dataset.filter;
+          chips.forEach(function (c) { c.setAttribute("aria-pressed", String(c === chip)); });
+          apply();
+        });
+      });
+      input.addEventListener("input", apply);
+    })();
+  </script>
+</body>
+</html>

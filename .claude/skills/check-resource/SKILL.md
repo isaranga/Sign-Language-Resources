@@ -63,9 +63,9 @@ Lead with the verdict, then the table, then context.
 - Risks worth monitoring (single host, unmaintained, partial coverage).
 
 **Suggested README line** (only if the verdict isn't "Don't include"):
-`* [Name](url) - short description (language notes)` → section: <README section heading>
+`* [Name](url) - Short description (language notes).` → section: <README section heading>
 ```
 
-Match the README's existing style for the suggested line: `* [Name](url) - description`, lower-case description, and a note when the site isn't in English. Name the section it belongs in. Use "Multilingual dictionaries" or "General resources" when no single sign language fits.
+Match the README's existing style for the suggested line: `* [Name](url) - Description.`, with the description starting with a capital letter and ending with a full stop, and a note when the site isn't in English (e.g. "(mainly in Spanish)."). Name the section it belongs in. Use "Multilingual dictionaries" or "General resources" when no single sign language fits.
 
 Keep the report direct: state failures plainly and give a firm recommendation. Say how confident you are when the call is genuinely borderline.
